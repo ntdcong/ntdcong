@@ -1,9 +1,8 @@
-## 👋 Hey there, I’m @ntdcong!
+## 👋 Hey there, I’m Richard!
 
 ### 🧠 About me
 - 👀 **Curious soul:** I enjoy days where my brain *doesn't explode* with thoughts. Peace is underrated.
 - 🌱 **Currently learning:** Everything — life throws lessons like confetti and I’m catching what I can.
-- 🤝 **Collaborate with me on:** Still figuring out... Maybe something fun, maybe something wild — surprise me.
 - 📫 **Reach out via:** [duycong2580@gmail.com](mailto:duycong2580@gmail.com)
 - ⚡ **Fun fact:** Sharks are chill. It’s the humans you should worry about. 🦈
 

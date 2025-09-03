@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=ntdcong&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=ntdcong&theme=highcontrast&hide_border=true" />
 
 <br/>
 

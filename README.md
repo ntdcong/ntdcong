@@ -1,7 +1,7 @@
 <!-- Header động -->
 <div align="center">
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=400&color=00FFEF&center=true&vCenter=true&width=600&lines=Welcome+to+my+tech+world!;I'm+Richard+(ntdcong);Always+learning+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=400&color=00FFEF&center=true&vCenter=true&width=600&lines=Welcome+to+my+tech+world!;I'm+DCong+(ntdcong);Always+learning+new+things" alt="Typing SVG" />
 
 
 </div>

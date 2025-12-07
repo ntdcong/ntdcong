@@ -1,13 +1,3 @@
-<!-- Header động -->
-<div align="center">
-  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=400&color=00FFEF&center=true&vCenter=true&width=600&lines=Welcome+to+my+tech+world!;I'm+DCong+(ntdcong);Always+learning+new+things" alt="Typing SVG" />
-
-
-</div>
-
----
-
 ### 🧠 About me
 - 👀 **Curious soul:** I enjoy days where my brain *doesn't explode* with thoughts. Peace is underrated.
 - 🌱 **Currently learning:** Everything — life throws lessons like confetti and I’m catching what I can.
@@ -36,10 +26,6 @@
 ---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntdcong&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com/?user=ntdcong&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 

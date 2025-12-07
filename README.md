@@ -27,14 +27,6 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=ntdcong&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ntdcong&theme=highcontrast&hide_border=true" alt="GitHub Profile Summary" />
-
-<br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ntdcong&theme=highcontrast" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ntdcong&theme=highcontrast&utcOffset=7" />
 
@@ -42,14 +34,5 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ntdcong&custom_title=ntdcong%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph"/>
 
-<br/>
-
-</div>
-
----
-
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" title="Watch the snake eat my contributions 🐍"/>
 
 </div>

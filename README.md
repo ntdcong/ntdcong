@@ -11,22 +11,6 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Code-Java-blue?logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Code-Python-yellow?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Code-PHP-purple?logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Code-C++-informational?logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Web-HTML5-orange?logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Web-CSS3-blue?logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Web-JS-yellow?logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Tools-Git-F05032?logo=git&logoColor=white" />
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ntdcong&theme=highcontrast" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ntdcong&theme=highcontrast&utcOffset=7" />
 
